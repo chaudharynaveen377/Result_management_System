@@ -184,11 +184,10 @@ result-management-system/
 - Deploy to services like Vercel, Netlify, or GitHub Pages
 
 ## Future Enhancements
-
 - Email notifications for result updates
 - PDF generation for results
 - Pagination for large datasets
-- Dark mode UI
+- Dark mode UI And updation of UI
 - File upload for student photos/documents
 - Advanced search and filtering
 - Result export functionality
